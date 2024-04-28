@@ -17,7 +17,7 @@ _*ABSOLUTELY do not add self-tag in the image file names._
 
 ### Unlimited
 
-https://github.com/WebForks/jewcob-downloader
+https://github.com/WebForks/jewcob-downloader BROKEN USE THIS INSTEAD: https://github.com/WebForks/fakku-downloader-master
 
 https://css-ig.net/pingo
 
